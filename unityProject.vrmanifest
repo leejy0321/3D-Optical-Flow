@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.3dopticalflow.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Projects\\Optical Flow\\3D Optical Flow\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Projects\\3D Optical Flow\\3D-Optical-Flow\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "3D Optical Flow [Testing]"
